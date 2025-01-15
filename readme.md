@@ -35,7 +35,7 @@ project/
 │   └── Helper.py                                  # Utility functions
 ├── data/
 │   └── all-states-history.csv                     # COVID-19 dataset
-└── .env                                          # Environment variables
+└── .env                                           # Environment variables
 ```
 
 ## Setup
