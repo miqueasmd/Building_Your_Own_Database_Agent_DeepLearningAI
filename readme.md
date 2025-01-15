@@ -52,10 +52,16 @@ AZURE_OPENAI_API_KEY=your_key
 DATA_PATH=path_to_data_directory
 ```
 
-3. **Database Setup**
-```python
-python setup_database.py
-```
+3. **Azure Configuration**
+```markdown
+a. Create an Azure Account
+- Visit portal.azure.com and sign up for an account
+- If you're new to Azure, you may be eligible for free credits
+
+b. Create an Azure OpenAI Resource
+- In Azure portal, search for "Azure OpenAI"
+- Click "Create" and follow setup wizard
+
 
 ## Usage Examples
 
