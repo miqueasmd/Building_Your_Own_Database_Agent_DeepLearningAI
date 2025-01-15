@@ -61,7 +61,7 @@ a. Create an Azure Account
 b. Create an Azure OpenAI Resource
 - In Azure portal, search for "Azure OpenAI"
 - Click "Create" and follow setup wizard
-
+```
 
 ## Usage Examples
 
