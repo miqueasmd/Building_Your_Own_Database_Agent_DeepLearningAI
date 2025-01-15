@@ -1,11 +1,8 @@
 # Environment files
 .env
-deeplearningenvironment.txt
 
 # Python
 __pycache__/
 venv/
 
-/data/models.json
-
-/data/deeplearningenvironment.txt
+extra_data/
