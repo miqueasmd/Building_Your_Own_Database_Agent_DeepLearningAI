@@ -101,7 +101,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you like my work, consider supporting my studies!
 
-Your contributions will help cover fees and materials for my **Computer Science and Engineering studies  at UoPeople** starting in September 2025.
+Your contributions will help cover fees and materials for my **Computer Science and Engineering studies at the UOC** starting in September 2025.
 
 Every little bit helps—you can donate from as little as $1.
 
